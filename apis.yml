@@ -1,0 +1,84 @@
+aid: hawkeye
+name: Hawk-Eye Innovations
+description: >-
+  Hawk-Eye Innovations is a Basingstoke, UK-headquartered sports technology
+  company and part of the Sony Group, specializing in precision optical
+  tracking, electronic officiating, video replay, and performance analytics
+  across 25+ professional sports in 100+ countries. Founded in 2001 by Paul
+  Hawkins and acquired by Sony in 2011, Hawk-Eye operates alongside Pulselive
+  and Beyond Sports within Sony's sports division. The company is the standard
+  for ball-tracking in tennis (Electronic Line Calling, now used in place of
+  human line judges at the major tours), goal-line technology and
+  semi-automated offside in football (Premier League, FIFA), video replay in
+  cricket (DRS), NFL, NBA, MLB, NHL, rugby, and PGA Tour shot-tracking. Core
+  product platforms include SMART Replay, SMART Track, SMART Insight, HawkAR,
+  iHawk, HawkREPLAY, HawkNEST, HawkVISION, SkeleTRACK, Electronic Line Calling,
+  Goal Line Technology, Semi-Automated Offside Technology, and VAR systems.
+  Revenue comes from long-term contracts with leagues, federations, and
+  broadcasters; there is no public developer API, SDK, or open-source
+  release for Hawk-Eye products. All integrations are bespoke and
+  delivered through Sony Sports Business / Hawk-Eye operations teams.
+type: Index
+position: Provider
+access: 3rd-Party
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+tags:
+  - Sports Technology
+  - Ball Tracking
+  - Optical Tracking
+  - Officiating
+  - Electronic Line Calling
+  - Goal Line Technology
+  - Semi-Automated Offside
+  - Video Replay
+  - VAR
+  - Broadcast Graphics
+  - Sports Analytics
+  - Performance Analytics
+  - Computer Vision
+  - SkeleTRACK
+  - Tennis
+  - Football
+  - Cricket
+  - Baseball
+  - Basketball
+  - American Football
+  - Rugby
+  - Ice Hockey
+  - Golf
+  - Sony
+url: https://raw.githubusercontent.com/api-evangelist/hawkeye/refs/heads/main/apis.yml
+created: '2026-05-25'
+modified: '2026-05-25'
+specificationVersion: '0.20'
+apis: []
+common:
+  - type: Website
+    url: https://www.hawkeyeinnovations.com
+  - type: About
+    url: https://www.hawkeyeinnovations.com/our-story
+  - type: Products
+    url: https://www.hawkeyeinnovations.com/products
+  - type: Sports
+    url: https://www.hawkeyeinnovations.com/sports
+  - type: News
+    url: https://www.hawkeyeinnovations.com/news
+  - type: Contact
+    url: https://www.hawkeyeinnovations.com/contact
+  - type: Careers
+    url: https://careers.hawkeyeinnovations.com
+  - type: Parent
+    url: https://www.sony.com
+  - type: SonySportsBusiness
+    url: https://www.sony.com/en/SonyInfo/sports/
+  - type: GitHub
+    url: https://github.com/hawkeyeinnovations
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/hawk-eye-innovations-ltd
+  - type: Twitter
+    url: https://twitter.com/HawkEyeInnov
+  - type: YouTube
+    url: https://www.youtube.com/@HawkEyeInnovationsLtd
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
