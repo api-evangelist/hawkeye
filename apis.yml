@@ -100,6 +100,11 @@ modified: '2026-05-25'
 specificationVersion: '0.23'
 apis: []
 common:
+  - type: ParentCompany
+    url: https://apis.io/providers/sony/
+    name: Sony
+    x-relationship: acquired
+    x-evidence: "Founded in 2001 by Paul Hawkins and acquired by Sony in 2011, Hawk-Eye operates alongside Pulselive and Beyond Sports within Sony's sports division."
   - type: DomainSecurity
     url: security/hawkeye-domain-security.yml
   - type: Website
