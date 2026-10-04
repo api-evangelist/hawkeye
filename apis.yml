@@ -57,7 +57,7 @@ tags:
   - Broadcast Graphics
   - Sports Analytics
   - Performance Analytics
-  - Computer-Vision
+  - Computer Vision
   - SkeleTRACK
   - Tennis
   - Football
@@ -94,6 +94,7 @@ tags_raw:
   - Ice Hockey
   - Golf
   - Sony
+  - Computer-Vision
 url: https://raw.githubusercontent.com/api-evangelist/hawkeye/refs/heads/main/apis.yml
 created: '2026-05-25'
 modified: '2026-05-25'
