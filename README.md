@@ -1,4 +1,4 @@
-# hawkeye
+# Hawk-Eye Innovations
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,6 +64,80 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Hawk-Eye Innovations — sports ball-tracking, electronic officiating, video replay, and performance analytics (Sony Group).
+Hawk-Eye Innovations is a Basingstoke, UK-headquartered sports technology company and part of the Sony Group, specializing in precision optical tracking, electronic officiating, video replay, and performance analytics across 25+ professional sports in 100+ countries. Founded in 2001 by Paul Hawkins and acquired by Sony in 2011, Hawk-Eye operates alongside Pulselive and Beyond Sports within Sony's sports division. The company is the standard for ball-tracking in tennis (Electronic Line Calling, now used in place of human line judges at the major tours), goal-line technology and semi-automated offside in football (Premier League, FIFA), video replay in cricket (DRS), NFL, NBA, MLB, NHL, rugby, and PGA Tour shot-tracking. Core product platforms include SMART Replay, SMART Track, SMART Insight, HawkAR, iHawk, HawkREPLAY, HawkNEST, HawkVISION, SkeleTRACK, Electronic Line Calling, Goal Line Technology, Semi-Automated Offside Technology, and VAR systems. Revenue comes from long-term contracts with leagues, federations, and broadcasters; there is no public developer API, SDK, or open-source release for Hawk-Eye products. All integrations are bespoke and delivered through Sony Sports Business / Hawk-Eye operations teams.
 
-No public developer API or SDK; integrations are delivered as bespoke engagements through Sony Sports Business / Hawk-Eye operations teams.
+**Areas:** Sports Technology · Ball Tracking · Optical Tracking · Officiating · Electronic Line Calling · Goal Line Technology · Semi-Automated Offside · Video Replay · VAR · Broadcast Graphics · Sports Analytics · Performance Analytics
+
+## Hawk-Eye Innovations on APIs.io
+
+Everything profiled for Hawk-Eye Innovations is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/hawkeye/](https://apis.io/providers/hawkeye/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Hawkeye Domain Security](https://apis.io/security/hawkeye/hawkeye-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.hawkeyeinnovations.com)
+- [Blog](https://www.hawkeyeinnovations.com/news)
+
+## API Evangelist rating
+
+**Kin Score 4.6** — minimal · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 49.1 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 5.3 |
+| Developer ergonomics | 2.4 |
+| Access clarity | 0.0 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 5.5** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/hawkeye/](https://apis.io/providers/hawkeye/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Hawk-Eye Innovations: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/hawkeye/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
